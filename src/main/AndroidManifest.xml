@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.mseyda.cengometre">
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+
+    <uses-feature android:name="android.hardware.type.watch" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Cengometre"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".profil"></activity>
+        <activity android:name=".signUp" />
+        <activity android:name=".hakkinda" />
+        <activity android:name=".yuzdeler" />
+        <activity android:name=".uploadResults" />
+        <activity android:name=".test9" />
+        <activity android:name=".test8" />
+        <activity android:name=".test7" />
+        <activity android:name=".test6" />
+        <activity android:name=".test5" />
+        <activity android:name=".test4" />
+        <activity android:name=".test3" />
+        <activity android:name=".test2" />
+        <activity android:name=".test1" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainMenu" />
+        <activity android:name=".testler" />
+    </application>
+
+</manifest>

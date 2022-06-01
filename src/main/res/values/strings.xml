@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Cengometre</string>
+    <string name="title_activity_test1">test1</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test1a">YAPAY ZEKA</string>
+    <string name="test1b">VERİ</string>
+    <string name="test1c">NETWORK</string>
+    <string name="test1d">SİBER GÜVENLİK</string>
+    <string name="test2a">PYTHON</string>
+    <string name="test2b">JAVASCRİPT</string>
+    <string name="test2c">C#</string>
+    <string name="test2d">JAVA</string>
+    <string name="test3a">ON-SİTE</string>
+    <string name="test3b">REMOTE</string>
+    <string name="test3c">HİBRİT</string>
+    <string name="test4a">FREE-LANCER</string>
+    <string name="test4b">ŞİRKET ÇALIŞANI</string>
+    <string name="test5a">FRONT-END</string>
+    <string name="test5b">BACK-END</string>
+    <string name="test5c">FULL-STACK</string>
+    <string name="test6a">DONANIM</string>
+    <string name="test6b">YAZILIM</string>
+    <string name="test7a">ELEKTRİK ELEKTRONİK MÜHENDİSLİĞİ</string>
+    <string name="test7b">BİLGİSAYAR MÜHENDİSLİĞİ</string>
+    <string name="test7c">YAZILIM MÜHENDİSLİĞİ</string>
+    <string name="test8a">AKADEMİK</string>
+    <string name="test8b">SEKTÖR</string>
+    <string name="test9a">KURUMSAL</string>
+    <string name="test9b">KÜÇÜK ŞİRKETLER</string>
+    <string name="prev"><![CDATA[<]]></string>
+    <string name="next"><![CDATA[>]]></string>
+
+
+</resources>
